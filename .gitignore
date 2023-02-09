@@ -1,0 +1,14 @@
+ApiEnv
+pre_processing_venv
+
+[t,T]est*
+
+logs/*
+!logs/.gitkeep
+
+files/*
+!files/.gitkeep
+
+*/__pycache__
+
+config/*_config.py
